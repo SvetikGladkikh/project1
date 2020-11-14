@@ -1,3 +1,6 @@
 Main-Class: Runner
+<<<<<<< HEAD
 Class-Path: bin/
+=======
+>>>>>>> 73cf2f9 (Fisrt exercize for java school)
 
